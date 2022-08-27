@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0lXAZDNJF8yh8m-fnrqlxgJElfMWrYKgl-A&usqp=CAU>
+<p align="left"> <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0lXAZDNJF8yh8m-fnrqlxgJElfMWrYKgl-A&usqp=CAU/> </p>
 
 - 🔭 I’m currently working on **Machine learning**
 
@@ -17,11 +16,12 @@
 - 📫 How to reach me **nikhil8948947219@gmail.com**
 
 - ⚡ Fun fact **you can also use my number mentioned in gmail.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhil kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil kumar" height="30" width="40" /></a>
 <a href="https://fb.com/nikhil kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikhil kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/nikhil_kr99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil_kr99" height="30" width="40" /></a>
+<a href="https://instagram.com/_nikhil_kr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nikhil_kr_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
