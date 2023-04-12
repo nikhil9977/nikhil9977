@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0lXAZDNJF8yh8m-fnrqlxgJElfMWrYKgl-A&usqp=CAU/> </p>
 
