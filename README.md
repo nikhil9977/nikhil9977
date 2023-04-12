@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Machine learning**
 
-- 💬 Ask me about **Java, python, c++**
+- 💬 Ask me about **Java, Python, SQL, Tableau, Excel**
 
 - 📫 How to reach me **nikhil8948947219@gmail.com**
 
